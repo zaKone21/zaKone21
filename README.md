@@ -1,17 +1,18 @@
 # Joaquín Zaccone
 
-**AI-Assisted Developer**
-Systems Engineering Student · UTN FRRO · Argentina
+**Developer · Systems Engineering Student**
 
-Building software with AI as part of the development process.
+Argentina · UTN FRRO
+
+Building software, learning engineering, and working on real-world projects.
 
 ---
 
 ### About
 
-First-year Systems Engineering student at **UTN FRRO**, interested in software development, backend systems, automation and building practical products.
+I'm a first-year **Systems Engineering student at UTN FRRO** interested in software development, backend systems, databases, automation and technology.
 
-I use AI throughout my development workflow — from planning and architecture to implementation, debugging and testing.
+I use AI-assisted development as part of my workflow, alongside traditional development tools and engineering practices.
 
 ### Stack
 
@@ -21,4 +22,14 @@ I use AI throughout my development workflow — from planning and architecture t
 [![Node.js](https://img.shields.io/badge/Node.js-181818?style=flat\&logo=nodedotjs\&logoColor=5FA04E)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181818?style=flat\&logo=postgresql\&logoColor=4169E1)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/Git-181818?style=flat\&logo=git\&logoColor=F05032)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-181818?style=flat\&logo=docker\&logoColor=2496ED)](https://www.docker.com/)
+[![n8n](https://img.shields.io/badge/n8n-181818?style=flat\&logo=n8n\&logoColor=EA4B71)](https://n8n.io/)
+[![Linux](https://img.shields.io/badge/Linux-181818?style=flat\&logo=linux\&logoColor=FCC624)](https://www.linux.org/)
 
+### Interests
+
+Software development · Backend · Databases · Automation · Systems architecture
+
+---
+
+**Build · Learn · Iterate**
