@@ -16,15 +16,17 @@ I use AI-assisted development as part of my workflow, alongside traditional deve
 
 ### Stack
 
-[![React](https://img.shields.io/badge/React-181818?style=flat\&logo=react\&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-181818?style=flat\&logo=nextdotjs\&logoColor=FFFFFF)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=flat\&logo=typescript\&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-181818?style=flat\&logo=nodedotjs\&logoColor=5FA04E)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181818?style=flat\&logo=postgresql\&logoColor=4169E1)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/Git-181818?style=flat\&logo=git\&logoColor=F05032)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-181818?style=flat\&logo=docker\&logoColor=2496ED)](https://www.docker.com/)
-[![n8n](https://img.shields.io/badge/n8n-181818?style=flat\&logo=n8n\&logoColor=EA4B71)](https://n8n.io/)
-[![Linux](https://img.shields.io/badge/Linux-181818?style=flat\&logo=linux\&logoColor=FCC624)](https://www.linux.org/)
+<div align="left">
+
+<img src="https://img.shields.io/badge/React-%23f5f5f5?style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next.js-%23f5f5f5?style=flat-square&logo=nextdotjs&logoColor=%23111111" />
+<img src="https://img.shields.io/badge/TypeScript-%23f5f5f5?style=flat-square&logo=typescript&logoColor=%233178C6" />
+<img src="https://img.shields.io/badge/Node.js-%23f5f5f5?style=flat-square&logo=nodedotjs&logoColor=%235FA04E" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23f5f5f5?style=flat-square&logo=postgresql&logoColor=%234169E1" />
+<img src="https://img.shields.io/badge/Git-%23f5f5f5?style=flat-square&logo=git&logoColor=%23F05032" />
+<img src="https://img.shields.io/badge/n8n-%23f5f5f5?style=flat-square&logo=n8n&logoColor=%23EA4B71" />
+
+</div>
 
 ### Interests
 
