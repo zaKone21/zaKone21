@@ -1,3 +1,5 @@
+<div align="center">
+
 # Joaquín Zaccone
 
 **Developer · Systems Engineering Student**
@@ -6,32 +8,45 @@ Argentina · UTN FRRO
 
 Building software, learning engineering, and working on real-world projects.
 
+</div>
+
 ---
 
 ### About
 
-I'm a first-year **Systems Engineering student at UTN FRRO** interested in software development, backend systems, databases, automation and technology.
+First-year **Systems Engineering student at UTN FRRO** interested in software development, backend systems, databases and automation.
 
-I use AI-assisted development as part of my workflow, alongside traditional development tools and engineering practices.
+I use AI-assisted development as part of my workflow, together with conventional engineering and development practices.
 
 ### Stack
 
-<div align="left">
+<div align="center">
 
-<img src="https://img.shields.io/badge/React-%23f5f5f5?style=flat-square&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Next.js-%23f5f5f5?style=flat-square&logo=nextdotjs&logoColor=%23111111" />
-<img src="https://img.shields.io/badge/TypeScript-%23f5f5f5?style=flat-square&logo=typescript&logoColor=%233178C6" />
-<img src="https://img.shields.io/badge/Node.js-%23f5f5f5?style=flat-square&logo=nodedotjs&logoColor=%235FA04E" />
-<img src="https://img.shields.io/badge/PostgreSQL-%23f5f5f5?style=flat-square&logo=postgresql&logoColor=%234169E1" />
-<img src="https://img.shields.io/badge/Git-%23f5f5f5?style=flat-square&logo=git&logoColor=%23F05032" />
-<img src="https://img.shields.io/badge/n8n-%23f5f5f5?style=flat-square&logo=n8n&logoColor=%23EA4B71" />
+![React](https://img.shields.io/badge/React-181818?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-181818?style=flat-square\&logo=nextdotjs\&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=flat-square\&logo=typescript\&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-181818?style=flat-square\&logo=nodedotjs\&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181818?style=flat-square\&logo=postgresql\&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-181818?style=flat-square\&logo=git\&logoColor=F05032)
+![n8n](https://img.shields.io/badge/n8n-181818?style=flat-square\&logo=n8n\&logoColor=EA4B71)
+![Antigravity](https://img.shields.io/badge/Antigravity-181818?style=flat-square\&logoColor=FFFFFF)
 
 </div>
 
-### Interests
+### Focus
 
-Software development · Backend · Databases · Automation · Systems architecture
+`Web Development` · `Backend` · `Databases` · `Automation` · `Systems Architecture`
+
+### Currently
+
+🎓 Systems Engineering · UTN FRRO
+⚙️ Building web applications and business software
+🧩 Exploring automation, infrastructure and AI-assisted development
 
 ---
 
+<div align="center">
+
 **Build · Learn · Iterate**
+
+</div>
