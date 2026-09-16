@@ -21,4 +21,4 @@ I use AI throughout my development workflow — from planning and architecture t
 [![Node.js](https://img.shields.io/badge/Node.js-181818?style=flat\&logo=nodedotjs\&logoColor=5FA04E)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181818?style=flat\&logo=postgresql\&logoColor=4169E1)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/Git-181818?style=flat\&logo=git\&logoColor=F05032)](https://git-scm.com/)
-[![Doc]()]()
+
