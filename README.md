@@ -36,9 +36,7 @@ I build software for real-world use cases, with a focus on practical solutions, 
 
 AI-assisted development is part of my workflow, alongside conventional engineering and development practices.
 
-### Focus
-
-`Web Development` · `Backend` · `Databases` · `Automation` · `Systems Architecture`
+---
 
 ### Currently
 
